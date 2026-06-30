@@ -16,7 +16,7 @@ Claude Code product shape.
   live runtime state, saved sessions, inspect, and replay views
 - `/instructions` exposes the effective instruction surface in local command
   flows
-
+  
 ### Hook workflow productization
 
 - hook health is visible through live summaries, saved-session surfaces, and

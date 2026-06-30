@@ -4,7 +4,7 @@ Terminal-first AI coding assistant with closed-loop self-regulation via
 engineering cybernetics (15+ controllers: PID ×4, Kalman ×5).
 
 ## Quick Start
-
+ 
 ```bash
 python -m minicode.main
 ```

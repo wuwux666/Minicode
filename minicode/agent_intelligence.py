@@ -15,7 +15,7 @@ class ErrorCategory(Enum):
     LOGIC = "logic"
     TIMEOUT = "timeout"
     UNKNOWN = "unknown"
-
+  
 
 class RecoveryStrategy(Enum):
     RETRY_EXPONENTIAL_BACKOFF = "retry_exponential_backoff"
