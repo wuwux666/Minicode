@@ -29,7 +29,7 @@ COPY minicode/ ./minicode/
 RUN python -m venv /opt/minicode-venv && \
     /opt/minicode-venv/bin/pip install --no-cache-dir --upgrade pip && \
     /opt/minicode-venv/bin/pip install --no-cache-dir .
-
+  
 # ---------------------------------------------------------------------------
 # Stage 2: Runtime — minimal image with only the venv
 # ---------------------------------------------------------------------------

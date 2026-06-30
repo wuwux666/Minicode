@@ -14,7 +14,7 @@
 #   docker compose up gateway
 #   docker compose run --rm headless "帮我分析这个项目的结构"
 # =============================================================================
-
+  
 services:
   # ===========================================================================
   # Mode 1: Interactive CLI — the classic MiniCode experience
