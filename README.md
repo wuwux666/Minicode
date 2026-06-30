@@ -85,18 +85,6 @@ User → agent_loop → turn_kernel (phase policy, widening, verify)
 | `benchmarks/` | 性能基准、压力测试、发布检查 |
 | `docs/` | 架构文档与优化记录 |
 
----
-
-## MiniCode 家族
-
-| 版本 | 仓库 | 定位 |
-|------|------|------|
-| TypeScript | [LiuMengxuan04/MiniCode](https://github.com/LiuMengxuan04/MiniCode) | 主终端 agent，TUI，MCP，Skills |
-| Python | [QUSETIONS/MiniCode-Python](https://github.com/QUSETIONS/MiniCode-Python) | 本地优先，会话/回退/可观测性 |
-| Rust | [harkerhand/MiniCode-rs](https://github.com/harkerhand/MiniCode-rs/tree/master) | 系统级实现 |
-| Java | [hobbescalvin414-tech/minicode4j](https://github.com/hobbescalvin414-tech/minicode4j) | Java 实现 |
-
----
 
 ## 当前状态
 
